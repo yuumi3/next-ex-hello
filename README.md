@@ -3,9 +3,9 @@
 
 
 ```sh
-$ npx create-next-app@latest  react_app1  -e https://github.com/yuumi3/next-ex-hello
+$ npx -y create-next-app@latest  react_hello  -e https://github.com/yuumi3/next-ex-hello
 
-$ cd react_app1
+$ cd react_hello
 $ npm run dev
 ```
 
